@@ -5,3 +5,4 @@ Install-Python 3.6
 Install Tesseract-OCR
 Example
 Process the image and extract text
+image-to-text-Tesseract/extract text.
